@@ -1,10 +1,13 @@
 # An Intelligent Software Engineering Assistant for Automated Project Planning and Documentation
 
 ## Team Members
-- Usha Sri Sai – 2420030033
+- Thota Usha Sri Sai – 2420030033
+- Ramayanam Vaishnavi Sree Vardhini - 2420030371
+- P. Kavya Sai - 2420030322
+- KNC Sphoorthy - 2420030510
 
 ## Supervisor
-- (Your faculty name)
+Dr. K Bhavya Varma
 
 ## Abstract
 This project develops an intelligent assistant that helps in automated project planning, task management, and documentation for software engineering projects.
