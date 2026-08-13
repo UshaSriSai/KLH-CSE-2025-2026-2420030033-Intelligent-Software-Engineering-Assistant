@@ -1,7 +1,7 @@
 # An Intelligent Software Engineering Assistant for Automated Project Planning and Documentation
 
 ## Team Members
-- Thota Usha Sri Sai – 2420030033
+- Thota Usha Sri Sai - 2420030033
 - P. Kavya Sai - 2420030322
 - Ramayanam Vaishnavi Sree Vardhini - 2420030371
 - KNC Sphoorthy - 2420030510
