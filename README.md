@@ -2,8 +2,8 @@
 
 ## Team Members
 - Thota Usha Sri Sai – 2420030033
-- Ramayanam Vaishnavi Sree Vardhini - 2420030371
 - P. Kavya Sai - 2420030322
+- Ramayanam Vaishnavi Sree Vardhini - 2420030371
 - KNC Sphoorthy - 2420030510
 
 ## Supervisor
